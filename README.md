@@ -61,9 +61,6 @@ This paper was published in ***EMNLP2023*** and is titled "[HFMRE: Constructing 
 |   RT-DETR-R101    |  2x   |     640     | COCO + Objects365 |  **56.2**  |    **74.6**     |    76     |   259    | -->
 
 
-
-
-
 ## Quick start
 
 <details>
