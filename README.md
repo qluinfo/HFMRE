@@ -23,7 +23,7 @@ English | [简体中文](README_cn.md)
 XXX（模型介绍）
 
 <div align="center">
-  <!-- <img src="HFMRE_model.png" width=300 /> -->
+  <!-- <img src="https://github.com/qluinfo/HFMRE/blob/main/HFMRE_model.png" width=300 /> -->
   <img src="https://raw.githubusercontent.com/qluinfo/WXL/main/images/editing-talk.png" width=500 >
 </div>
 
