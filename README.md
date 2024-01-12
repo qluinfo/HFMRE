@@ -23,7 +23,7 @@ Since the introduction of distantly supervised relation extraction methods, nume
 
 <div align="center">
   <!-- <img src="https://github.com/qluinfo/HFMRE/blob/main/HFMRE_model.png" width=300 /> -->
-  <img src="https://github.com/qluinfo/HFMRE/blob/main/HFMRE_model.png" width=500 >
+  <img src="https://github.com/qluinfo/HFMRE/blob/main/HFMRE_model.png" width=800 >
 </div>
 
 
@@ -41,7 +41,12 @@ This paper was published in ***EMNLP2023*** and is titled "[HFMRE: Constructing 
 
 ## Result
 
-（根据自己的结果修改下图）
+
+
+<div align="center">
+  <img src="https://github.com/qluinfo/HFMRE/blob/main/image.png" width=800 >
+</div>
+<!-- （根据自己的结果修改下图）
 
 |       Model       | Epoch | Input shape |      Dataset      | $AP^{val}$ | $AP^{val}_{50}$ | Params(M) | FLOPs(G) |
 | :---------------: | :---: | :---------: | :---------------: | :--------: | :-------------: | :-------: | :------: |
@@ -53,10 +58,9 @@ This paper was published in ***EMNLP2023*** and is titled "[HFMRE: Constructing 
 | RT-DETR-HGNetv2-L |  6x   |     640     |       COCO        |    53.0    |      71.6       |    32     |    11    |
 |    RT-DETR-R18    |  5x   |     640     | COCO + Objects365 |  **49.2**  |    **66.6**     |    20     |    60    |
 |    RT-DETR-R50    |  2x   |     640     | COCO + Objects365 |  **55.3**  |    **73.4**     |    42     |   136    |
-|   RT-DETR-R101    |  2x   |     640     | COCO + Objects365 |  **56.2**  |    **74.6**     |    76     |   259    |
+|   RT-DETR-R101    |  2x   |     640     | COCO + Objects365 |  **56.2**  |    **74.6**     |    76     |   259    | -->
 
-**Notes:**
-- 填写结果中的细节信息（选填）
+
 
 
 
