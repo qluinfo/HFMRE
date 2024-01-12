@@ -23,7 +23,7 @@ English | [简体中文](README_cn.md)
 XXX（模型介绍）
 
 <div align="center">
-  <!-- <img src="https://github.com/PaddlePaddle/PaddleDetection/assets/17582080/3184a08e-aa4d-49cf-9079-f3695c4cc1c3" width=300 /> -->
+  <!-- <img src="HFMRE_model.png" width=300 /> -->
   <img src="https://raw.githubusercontent.com/qluinfo/WXL/main/images/editing-talk.png" width=500 >
 </div>
 
