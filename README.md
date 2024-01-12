@@ -60,29 +60,29 @@ This paper was published in ***EMNLP2023*** and is titled "[HFMRE: Constructing 
 
 ## Quick start
 
-<details>
+
 <summary>Install</summary>
 
 ```bash
 pip install -r requirements.txt
 ```
 
-</details>
 
 
 
-<details>
+
+
 <summary>Data</summary>
 
 - download_nyt10.sh
 - download_nyt10m.sh
 - download_wiki20m.sh
 
-</details>
 
 
 
-<details>
+
+
 <summary>Training & Evaluation</summary>
 
 ```shell
@@ -92,28 +92,10 @@ train_nyt10m.sh
 train_wiki20m.sh
 ```
 
-```shell
-# evaluation
-(填写测试的指令)
-```
-
-</details>
 
 
 
-<details>
-<summary>Export</summary>
 
-```shell
-（填写导出结果的指令）
-```
-</details>
-
-
-
-<details open>
-<summary>Train custom data</summary>
-（填写训练自定义数据的流程）
 
 
 
