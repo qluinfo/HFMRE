@@ -5,8 +5,8 @@ English | [简体中文](README_cn.md)
 <!--     <a href="https://github.com/lyuwenyu/RT-DETR/blob/main/LICENSE">
         <img alt="license" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue">
     </a> -->
-    <a href="https://github.com/lyuwenyu/RT-DETR/blob/main/LICENSE">
-        <img alt="license" src="https://img.shields.io/github/license/lyuwenyu/RT-DETR">
+    <a href="https://github.com/shaocong-qy/HFMRE/main/LICENSE">
+        <img alt="license" src="https://github.com/shaocong-qy/HFMRE">
     </a>
     
     <a href="mailto: 10431220590@stu.qlu.edu.cn">
