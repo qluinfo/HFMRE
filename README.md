@@ -8,10 +8,8 @@ English | [简体中文](README_cn.md)
     <a href="https://github.com/lyuwenyu/RT-DETR/blob/main/LICENSE">
         <img alt="license" src="https://img.shields.io/github/license/lyuwenyu/RT-DETR">
     </a>
-    <a href="https://arxiv.org/abs/2304.08069">
-        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2304.08069-red">
-    </a>
-    <a href="mailto: lyuwenyu@foxmail.com">
+    
+    <a href="mailto: 10431220590@stu.qlu.edu.cn">
         <img alt="emal" src="https://img.shields.io/badge/contact_me-email-yellow">
     </a>
 </p>
