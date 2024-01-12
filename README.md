@@ -43,19 +43,6 @@ This paper was published in ***EMNLP2023*** and is titled "[HFMRE: Constructing 
 <div align="center">
   <img src="https://github.com/qluinfo/HFMRE/blob/main/image.png" width=800 >
 </div>
-<!-- （根据自己的结果修改下图）
-
-|       Model       | Epoch | Input shape |      Dataset      | $AP^{val}$ | $AP^{val}_{50}$ | Params(M) | FLOPs(G) |
-| :---------------: | :---: | :---------: | :---------------: | :--------: | :-------------: | :-------: | :------: |
-|    RT-DETR-R18    |  6x   |     640     |       COCO        |    46.5    |      63.8       |    20     |    60    |
-|    RT-DETR-R34    |  6x   |     640     |       COCO        |    48.9    |      66.8       |    31     |    92    |
-|   RT-DETR-R50-m   |  6x   |     640     |       COCO        |    51.3    |      69.6       |    36     |   100    |
-|    RT-DETR-R50    |  6x   |     640     |       COCO        |    53.1    |      71.3       |    42     |   136    |
-|   RT-DETR-R101    |  6x   |     640     |       COCO        |    54.3    |      72.7       |    76     |   259    |
-| RT-DETR-HGNetv2-L |  6x   |     640     |       COCO        |    53.0    |      71.6       |    32     |    11    |
-|    RT-DETR-R18    |  5x   |     640     | COCO + Objects365 |  **49.2**  |    **66.6**     |    20     |    60    |
-|    RT-DETR-R50    |  2x   |     640     | COCO + Objects365 |  **55.3**  |    **73.4**     |    42     |   136    |
-|   RT-DETR-R101    |  2x   |     640     | COCO + Objects365 |  **56.2**  |    **74.6**     |    76     |   259    | -->
 
 
 ## Quick start
