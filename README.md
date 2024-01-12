@@ -33,7 +33,7 @@ Since the introduction of distantly supervised relation extraction methods, nume
 
 This paper was published in ***EMNLP2023*** and is titled "[HFMRE: Constructing Huffman Tree in Bags to Find Excellent Instances for Distantly Supervised Relation Extraction](https://aclanthology.org/2023.findings-emnlp.854/)".
 
-
+</details>
 
 
 ## Result
